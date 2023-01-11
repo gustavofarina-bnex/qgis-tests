@@ -1,0 +1,24 @@
+{
+  'concorrencia' : 'C:/Users/yukif/OneDrive/Documents/Bnex/071-2022 SÃO VICENTE POTENCIAL (AMERICANA - SP)/071-2022 SÃO VICENTE POTENCIAL (AMERICANA - SP)/CONCORRENTES.gpkg|layername=concorrentes_so_vicente_americana_sp__correto',
+  'native:buffer_4:buff_aprox4km' : 'TEMPORARY_OUTPUT',
+  'native:extractbyexpression_1:mp' : 'TEMPORARY_OUTPUT',
+  'native:extractbyexpression_2:gp' : 'TEMPORARY_OUTPUT',
+  'native:extractbyexpression_3:mm_pp' : 'TEMPORARY_OUTPUT',
+  'native:extractbyexpression_5:at' : 'TEMPORARY_OUTPUT',
+  'native:joinattributestable_1:CONCORRENTES' : 'TEMPORARY_OUTPUT',
+  'native:joinattributestable_2:dist_unido' : 'TEMPORARY_OUTPUT',
+  'ponto' : 'C:/Users/yukif/OneDrive/Documents/Bnex/071-2022 SÃO VICENTE POTENCIAL (AMERICANA - SP)/071-2022 SÃO VICENTE POTENCIAL (AMERICANA - SP)/LOJA.gpkg|layername=loja_01',
+  'qgis:fieldcalculator_1:buff_3km' : 'TEMPORARY_OUTPUT',
+  'qgis:fieldcalculator_2:buff_1km' : 'TEMPORARY_OUTPUT',
+  'qgis:fieldcalculator_3:buff_2km' : 'TEMPORARY_OUTPUT',
+  'qgis:refactorfields_2:uniao_isos' : 'TEMPORARY_OUTPUT',
+  'tabelaconcorrencia' : 'file:///C:/Users/yukif/OneDrive/Documents/Bnex/071-2022%20S%C3%83O%20VICENTE%20POTENCIAL%20(AMERICANA%20-%20SP)/071-2022%20S%C3%83O%20VICENTE%20POTENCIAL%20(AMERICANA%20-%20SP)/concorrentes/Lista%20de%20concorrentes%20S%C3%A3o%20Vicente%20Americana%20SP.csv?type=csv&delimiter=%5Ct;&maxFields=10000&detectTypes=yes&geomType=none&subsetIndex=no&watchFile=no'
+}
+
+The following algorithms are not available on this system:
+ORS Tools:isochrones_from_layer_1,
+ORS Tools:isochrones_from_layer_6,
+ORS Tools:isochrones_from_layer_5,
+ORS Tools:isochrones_from_layer_3,
+ORS Tools:isochrones_from_layer_4,
+ORS Tools:isochrones_from_layer_2
